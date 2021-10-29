@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Pathompong Subtechitmanee from Thailand.
 - 👀 I’m interested in iOS and Front-end development.
-- 🌱 I’m currently learning React native and javascript.
+- 🌱 I’m currently learning Swift, React native and Javascript.
 - 📫 How to reach me - email: pspathompong@gmail.com
                         tel.: +66922806636
 
